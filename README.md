@@ -3,7 +3,8 @@
 ```ts
 export default human Zak() {
     🔭 let hardSkills = ['C', 'Python', 'Typescript', 'Nextjs', 'PostgreSQL', 'C++', 'Docker', 'Shell', 'Makefile'];
-    🌱 let softSkills = ['Autonomy', 'Communication', 'Problem-Solving', 'Adaptability', 'Teamwork', 'Empathy', 'Creativity']
+    🌱 let softSkills = ['Autonomy', 'Communication', 'Problem-Solving',
+                        'Adaptability', 'Teamwork', 'Empathy', 'Creativity']
 
     return (
       <h1> ✨ Hi ! I'm Zak. ✨ </h1>
