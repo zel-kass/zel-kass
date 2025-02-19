@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+```ts
+export default human Zak() {
+    🔭 let hardSkills = ['C', 'Python', 'Typescript', 'Nextjs', 'PostgreSQL', 'C++', 'Docker', 'Shell', 'Makefile'];
+}
+```
+
 <!--
 **WallBlade/WallBlade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
