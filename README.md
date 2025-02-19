@@ -25,13 +25,10 @@ export default function Zak() {
 
 ---
 
-### 🚀 Skills  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🚀 Tech  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts&theme=dark)](https://skillicons.dev)
+  <br>
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,nextjs,git,bash,docker&theme=dark)](https://skillicons.dev)
 
 ---
 
