@@ -1,7 +1,7 @@
 ## Welcome to... Welcome. 👋
 
-## 💼[LinkedIn](https://www.linkedin.com/in/zakary-el-kassimi-89299232b/)
-## 📫 [zelidkass@gmail.com](mailto:zelidkass@gmail.com)
+## 💼   [LinkedIn](https://www.linkedin.com/in/zakary-el-kassimi-89299232b/)
+## 📫   [zelidkass@gmail.com](mailto:zelidkass@gmail.com)
 
 ```ts
 export default function Zak() {
