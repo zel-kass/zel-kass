@@ -17,8 +17,6 @@ export default function Zak() {
           <p> Jokes aside, I'm currently learning Software Development and Machine Learning at 42 Paris. </p>
           <p> Are you a recruiter ? </p>
           <p> Hilarious, I still don't have a job, can you believe it ? </p>
-          <p> Actively searching for an internship in these fields—don’t hesitate to contact me!
-              My info is above in case you missed it. 👀 </p>
         </>
     );
 }
